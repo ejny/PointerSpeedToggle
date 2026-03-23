@@ -16,7 +16,7 @@ Setup:
 PointerSpeedToggle.exe -setup
 
 ## Notes
-- Windows only (built for and tested on Windows 11 Pro).
+- Windows only (built for and tested on Windows 11).
 - Settings are stored locally next to the executable.
 - No data is sent anywhere.
 
