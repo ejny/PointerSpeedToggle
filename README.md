@@ -2,6 +2,9 @@
 
 Simple Windows tool for switching between two user‑defined mouse pointer speeds.
 
+## Requirements
+- **Requires .NET 10 Desktop Runtime**
+
 ## How it works
 - On first run (or with the `-setup` parameter), the program asks for two speeds (1–11, old Control Panel scale).
 - Saves them to `Speeds.json` in the same folder as the executable.
